@@ -1,0 +1,2 @@
+# Crop_prediction
+There are over 4,000 agriculture markets (commonly known as mandis) in the country. Everyday prices fluctuate in the markets basis supply and demand of the crop. Prediction of crop prices is one of the most important task to ensure efficient crop planning and food safety in the country.  The problem statement revolves around prediction of prices for the crop Potato in District “Agra” in the state of Uttar Pradesh across year 2020.
